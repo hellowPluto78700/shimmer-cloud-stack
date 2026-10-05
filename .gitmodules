@@ -1,0 +1,9 @@
+[submodule "shimmer-docking-android"]
+	path = shimmer-docking-android
+	url = git@github.com:hellowPluto78700/shimmer-docking-android.git
+[submodule "shimmer-sensor-dashboard"]
+	path = shimmer-sensor-dashboard
+	url = git@github.com:hellowPluto78700/shimmer-sensor-dashboard.git
+[submodule "shimmer-data-sync-api"]
+	path = shimmer-data-sync-api
+	url = git@github.com:hellowPluto78700/shimmer-data-sync-api.git
